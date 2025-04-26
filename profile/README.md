@@ -8,7 +8,7 @@
 
 👩‍💻 We had made some resources.
 
-![image](https://raw.githubusercontent.com/CatalpaCute/image-hosting/main/CreatingBlog/binhai2022.jpg)
+![image](https://cdn.jsdelivr.net/gh/CatalpaCute/image-hosting@main/CreatingBlog/binhai2022.jpg)
 <!--
 
 **Here are some ideas to get you started:**
